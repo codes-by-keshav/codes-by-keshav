@@ -19,6 +19,5 @@ delivering high-quality products and services that meet diverse stakeholder need
 ![](https://github-profile-trophy.vercel.app/?username=codes-by-keshav&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codes-by-keshav&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=keshav&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
