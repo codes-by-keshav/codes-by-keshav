@@ -6,6 +6,8 @@ delivering high-quality products and services that meet diverse stakeholder need
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://keshav-3d-portfolio.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-verma-0987b5276) 
 
 # 💻 Tech Stack:
